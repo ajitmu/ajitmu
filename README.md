@@ -49,8 +49,8 @@
 
 ## 🌐 Connect with Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: your-link
+* 📧 Email: [ajitkumar21867@gmail.com](mailto:your-email@example.com)
+* 💼 LinkedIn:https://www.linkedin.com/in/ajit-kumar-b7436a340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
