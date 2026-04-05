@@ -37,21 +37,37 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ajitmu&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajitmu&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ajitmu&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitmu&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Streak Stats
+## 🏆 GitHub Trophies
 
-![Streak](https://streak-stats.demolab.com?user=ajitmu\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajitmu&theme=onestar" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ajitmu/ajitmu/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-* 📧 Email: [ajitkumar21867@gmail.com](mailto:your-email@example.com)
-* 💼 LinkedIn:https://www.linkedin.com/in/ajit-kumar-b7436a340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* 📧 Email: [ajitkumar21867@gmail.com](mailto:ajitkumar21867@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/ajit-kumar-b7436a340
 
 ---
 
-⭐ *Keep Learning & Keep Growing!*
+⭐ **Keep Learning & Keep Growing!**
